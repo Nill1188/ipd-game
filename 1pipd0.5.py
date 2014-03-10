@@ -1,6 +1,8 @@
 from sys import exit
 from getpass import getpass #invisible input module
 from random import randint
+#new commit for testing git
+#test...
 
 
 print """How many turns do you want to play? Or [R]andom""" 
